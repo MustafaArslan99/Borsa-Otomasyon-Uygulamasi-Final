@@ -16,8 +16,9 @@ Kullanıcı ürün satın almak istediği zaman, satın almak istediği ürünü
 
 Kullanıcı para eklemek istediği zaman, eklemek istediği miktarı girerek admin onayına gönderir. Admin onay verdikten sonra hesabındaki parayı görebilir. Para çeşidi olarak TL,EURO,DOLAR,STERLIN bulunmaktadır. Güncel kura göre girilen değer TL'ye çevrilerek hesaba eklenir.
 
-Kullanıcı satın aldığı ürünlerin listesini menüde bulunan 'Satın Aldığınız Ürünler' butonuna tıklayarak görebilir.
-Kullanıcı sattığı ürünleri menüde bulunan 'Satın Aldığınız Ürünler' butonuna tıklayarak görebilir.
+Kullanıcı satın aldığı ürünlerin listesini menüde bulunan 'Ürün Alım Ve Satış İşlemleri' butonuna tıklayarak görebilir.
+Kullanıcı sattığı ürünleri menüde bulunan 'Ürün Alım Ve Satış İşlemleri' butonuna tıklayarak görebilir.
+Kullanıcı buradaki verileri excel dosyası formatına çevirip çıktı alabilir.
 
 Admin
 kullanıcı adı: admin
