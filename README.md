@@ -21,7 +21,7 @@ Kullanıcı sattığı ürünleri menüde bulunan 'Ürün Alım Ve Satış İşl
 Kullanıcı buradaki verileri excel dosyası formatına çevirip çıktı alabilir.
 
 Admin
-kullanıcı adı: admin
+kullanıcı adı: admin    
 şifre :123
 
 Projenin tasarımı ve yazılımı Mustafa Arslan'a aittir.
