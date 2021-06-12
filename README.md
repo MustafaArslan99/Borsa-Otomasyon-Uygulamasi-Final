@@ -4,9 +4,9 @@ Sisteme ilk defa giren kişinin kayıt olması gereklidir. Kayıt olmadan sistem
 
 Giriş işlemi yapıldıktan sonra sistemde 3 farklı işlem yapılabilmektedir ;
 
-1-Ürün Satma
-2-Ürün Satın Alma
-3-Hesaba Para Ekleme
+1-Ürün Satma    
+2-Ürün Satın Alma   
+3-Hesaba Para Ekleme    
 
 Kullanıcı ürün satmak istediği zaman ürünün bilgilerini girip admin onayına gönderir. Admin onay verdikten sonra 'Satıştaki ürünler' listesinde gözükür.
 
