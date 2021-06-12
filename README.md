@@ -20,7 +20,7 @@ Kullanıcı satın aldığı ürünlerin listesini menüde bulunan 'Ürün Alım
 Kullanıcı sattığı ürünleri menüde bulunan 'Ürün Alım Ve Satış İşlemleri' butonuna tıklayarak görebilir.
 Kullanıcı buradaki verileri excel dosyası formatına çevirip çıktı alabilir.
 
-Admin
+Admin   
 kullanıcı adı: admin    
 şifre :123
 
